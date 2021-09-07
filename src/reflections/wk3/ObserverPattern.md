@@ -17,3 +17,9 @@ Subscribe, Unsubscribe and Broadcast
 template uses observer pattern by listening for user changes to the page and triggering.
 
 ---
+
+# Afternoon Project
+---
+https://jacksonschacher.github.io/BobbyLobby/
+
+---

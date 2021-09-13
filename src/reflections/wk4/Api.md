@@ -17,3 +17,5 @@ fetch allows us to creat a better api for simple things
 options allows you to specify what you want xml to fetch
 
 ---
+
+https://github.com/JacksonSchacher/Pokedex

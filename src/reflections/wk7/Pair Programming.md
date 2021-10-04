@@ -17,3 +17,7 @@ cleaner code, diffusion of knowledge, transfer of skills, less interruptions.
 doubles costs in poorly paired situations, expected to keep a running commentary, cannot be forced if there's relationship issues 
 
 ---
+
+GitHub Link
+
+https://github.com/JacksonSchacher/NotTrello

@@ -17,3 +17,7 @@ Intellisense typing, code is more readable and easier for other developers to pi
 I don't think code documentation is absolutely critical. With strong typing languages like TypeScript becoming the norm documentation is becoming reduntant. 
 
 ---
+
+GitHub Link
+
+https://github.com/JacksonSchacher/NotTrello
